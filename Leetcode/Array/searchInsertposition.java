@@ -4,7 +4,10 @@ Problem Name: Search Insert Position
 
 
 Problem Link:
-https://leetcode.com/problems/two-sum/?envType=problem-list-v2&envId=array
+https://leetcode.com/problems/search-insert-position/description/
+
+Solution Link:
+https://leetcode.com/problems/search-insert-position/submissions/2022152576
 
 */
 

@@ -4,7 +4,10 @@ Problem Name: Majority Element
 
 
 Problem Link:
-https://leetcode.com/problems/two-sum/?envType=problem-list-v2&envId=array
+https://leetcode.com/problems/majority-element/description/
+
+Solution Link:
+https://leetcode.com/problems/majority-element/submissions/2013431621
 
 */
 

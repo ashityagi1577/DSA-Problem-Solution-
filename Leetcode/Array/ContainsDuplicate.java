@@ -4,8 +4,11 @@ Problem Name: Contains Duplicate
 
 
 Problem Link:
-https://leetcode.com/problems/two-sum/?envType=problem-list-v2&envId=array
+https://leetcode.com/problems/contains-duplicate/description/
 
+
+Solution Link:
+https://leetcode.com/problems/contains-duplicate/submissions/2095682073
 */
 
 class Solution {

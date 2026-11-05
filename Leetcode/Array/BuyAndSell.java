@@ -4,7 +4,10 @@ Problem Name: Best Time to Buy and Sell Stock
 
 
 Problem Link:
-https://leetcode.com/problems/two-sum/?envType=problem-list-v2&envId=array
+https://leetcode.com/problems/best-time-to-buy-and-sell-stock/description/
+
+Solution Link:
+https://leetcode.com/problems/best-time-to-buy-and-sell-stock/submissions/2008308095
 
 */
 

@@ -4,7 +4,10 @@ Problem Name: Single Number
 
 
 Problem Link:
-https://leetcode.com/problems/two-sum/?envType=problem-list-v2&envId=array
+https://leetcode.com/problems/single-number/description/
+
+Solution Link:
+https://leetcode.com/problems/single-number/submissions/2098240928
 
 */
 

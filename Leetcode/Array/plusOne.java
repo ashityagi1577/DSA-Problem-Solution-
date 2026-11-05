@@ -4,8 +4,10 @@ Problem Name: Plus One
 
 
 Problem Link:
-https://leetcode.com/problems/two-sum/?envType=problem-list-v2&envId=array
+https://leetcode.com/problems/plus-one/description/
 
+Solution Link:
+https://leetcode.com/problems/plus-one/submissions/2148464500
 */
 
 
